@@ -137,16 +137,16 @@ form button{
 }
 
 .home-page1-box{
-    display: grid;
-    grid-template-columns: 0.5fr 3fr;
-    width: 1400px;
-    height: 85vh;
-    padding-right: 4rem;
+    /* display: grid; */
+    grid-template-columns: 1fr;
+    /* width: 768px; */
+    /* height: 85vh; */
+    /* padding-right: 4rem; */
    background-color: #f2f0ff;
-    background-size: cover;
-    position: relative;
-    top: -2rem;
-    left: -5rem;
+    /* background-size: cover; */
+    /* position: relative; */
+    /* top: -2rem; */
+    /* left: -5rem; */
     
     
 
