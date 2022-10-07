@@ -418,13 +418,33 @@ line-height: 1.5rem;
           }
 
           /* home-page2-container starts here */
+
+          .home-page2-hearder{
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+            font-size: 1.2rem;
+            /* line-height: 1rem; */
+            text-align: center;
+            color: #0D0E43 ;
+          }
           .chair-image img {
             width: 100%;
-            height: 150px;
+            height: 10rem;
             padding: 20px;
             object-fit: contain;
           }
-          
-          
+
+          .home-page2-container{ box-shadow: rgba(8, 8, 143, 0.2) 0px 7px 29px 0px; 
+            padding: 50px;
+
+          }
+
+          .home-page2-middle-grid{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            gap:1.8rem ;
+            width: 90%;
+            overflow: hidden;
+            margin: auto;
+          }
     }
     
