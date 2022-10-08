@@ -220,7 +220,7 @@ line-height: 1.5rem;
 
    .home-page2-hearder{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
-    font-size: 1.2rem;
+    font-size: 1rem;
     /* line-height: 1rem; */
     text-align: center;
     color: #0D0E43 ;
@@ -241,7 +241,7 @@ line-height: 1.5rem;
   /* } */
 
   .home-page2-middle-grid{
-    display: grid;
+    display: block;
     grid-template-columns: 1fr;
      gap:1.8rem ;
     width: 90%;
@@ -393,6 +393,22 @@ color: #2f1ac4;
 color: #2f1ac4;
 }
 
+.middle-grid-lower-section-2:hover{
+    color: #2f1ac4;
+}
+.middle-grid-lower-section:hover{
+    color: #2f1ac4;
+}
+
+.magic-icon{
+    color: #7E33E0;
+    
+}
+.magic-icon:hover{
+    color: #FB2E86;
+    cursor: pointer;
+    
+}
 
 
 
@@ -627,6 +643,7 @@ color: #2f1ac4;
             width: 90%;
             overflow: hidden;
             margin: auto;
+           
           }
 
           .home-page2-middle-grid-content1{ 
@@ -655,13 +672,13 @@ color: #2f1ac4;
             }
 
            .middle-grid-lower-section{
+           
             background-color: #FFFFFF;
             width: 15rem;
             height: 10rem;
             margin-top: 4rem;
-            /* background-size: cover; */
-            /* padding-left: 6rem; */
-            /* padding-right: 6rem; */
+            
+           
             
            }
            .middle-grid-lower-section-2{
@@ -675,8 +692,12 @@ color: #2f1ac4;
             color: #FB2E86;
             font-family: Arial;
             text-align: center;
+            padding-top: 1.5rem;
 
            }
+
+           
+           
 
            .rectangle-dash-container-2{
             display: flex;
@@ -771,6 +792,16 @@ color: #2f1ac4;
 }
 .middle-grid-lower-section:hover{
     color: #2f1ac4;
+}
+
+.magic-icon{
+    color: #7E33E0;
+    
+}
+.magic-icon:hover{
+    color: #FB2E86;
+    cursor: pointer;
+    
 }
     }
     
