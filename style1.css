@@ -212,13 +212,11 @@ line-height: 1.5rem;
     font-size: 1.1rem;
     line-height: 1.2rem;
     letter-spacing: 0.02em;
+ }
 
-    
-  }
+ /* home-page2-container starts here */
 
-   /* home-page2-container starts here */
-
-   .home-page2-hearder{
+ .home-page2-hearder{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
     font-size: 1rem;
     /* line-height: 1rem; */
@@ -235,25 +233,28 @@ line-height: 1.5rem;
     /* background-color: #f6f7fb; */
   }
 
-  /* .home-page2-container{ box-shadow: rgba(8, 8, 143, 0.2) 0px 7px 29px 0px;  */
-    /* padding: 50px; */
-
-  /* } */
+ 
+  
 
   .home-page2-middle-grid{
     display: block;
     grid-template-columns: 1fr;
-     gap:1.8rem ;
+   
+     gap:6rem ;
     width: 90%;
     overflow: hidden;
-    margin: auto;
+    margin: auto
+    
+   
   }
 
   .home-page2-middle-grid-content1{ 
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
-padding: 20px;
+padding: 19px 0px 0px 0px;
 background-color: #f6f7fb;
 border-radius: 2rem;
+height:25rem ;
+width: 17rem;
 /* padding-left: 6rem; */
 
   }
@@ -262,7 +263,9 @@ border-radius: 2rem;
     text-decoration: none;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
+    align-items: center;
     /* padding-bottom: 5rem; */
+    
     
   }
   .magic-icon-image-container button{
@@ -271,32 +274,36 @@ border-radius: 2rem;
         height: 1.8rem;
         border-radius: 0.1rem;
         /* align-self: center; */
-        
+        /* padding-bottom: 5rem; */
     }
 
    .middle-grid-lower-section{
+   
     background-color: #FFFFFF;
-    width: 15rem;
-    height: 10rem;
-    margin-top: 4rem;
-    /* background-size: cover; */
-    /* padding-left: 6rem; */
-    /* padding-right: 6rem; */
+    width: 17rem;
+    height: 9rem;
+    /* margin-right: 7rem; */
+    margin-top: 2.2rem;
     
    }
    .middle-grid-lower-section-2{
     background-color: #FFFFFF;
-    width: 15rem;
-    height: 10rem;
-    margin-top: 2rem;
+    width: 17rem;
+    height: 9rem;
+    margin-bottom: 0rem;
+    
 }
 
-   .middle-grid-lower-section-2 h3{
+   .middle-grid-lower-section h3{
     color: #FB2E86;
     font-family: Arial;
     text-align: center;
+    padding-top: 1.5rem;
 
    }
+
+   
+   
 
    .rectangle-dash-container-2{
     display: flex;
@@ -306,7 +313,7 @@ border-radius: 2rem;
     
    }
 
-   .middle-grid-lower-section h3{
+   .middle-grid-lower-section-2 h3{
     color: #FB2E86;
     font-family: Arial;
     /* padding-left: 2rem; */
@@ -359,14 +366,16 @@ border-radius: 2rem;
     /* padding-left: 2rem; */
     text-align: center;
     font-weight: 300;
+    padding-top: -2rem;
    }
 
    .middle-grid-lower-section p{
     color: #151875;
     font-family: Arial;
-    /* padding-left: 2rem; */
+     padding-bottom: 1rem;
     text-align: center;
     font-weight: 300;
+    /* padding-bottom: 2rem; */
   
 }
 
@@ -393,23 +402,21 @@ color: #2f1ac4;
 color: #2f1ac4;
 }
 
-.middle-grid-lower-section-2:hover{
-    color: #2f1ac4;
-}
-.middle-grid-lower-section:hover{
-    color: #2f1ac4;
-}
-
 .magic-icon{
-    color: #7E33E0;
-    
+color: #7E33E0;
+
 }
 .magic-icon:hover{
-    color: #FB2E86;
-    cursor: pointer;
-    
+color: #FB2E86;
+cursor: pointer;
+
 }
 
+.middle-grid-lower-section {box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.middle-grid-lower-section-2 {box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
+}
 
 
 
@@ -631,15 +638,14 @@ color: #2f1ac4;
             /* background-color: #f6f7fb; */
           }
 
-          /* .home-page2-container{ box-shadow: rgba(8, 8, 143, 0.2) 0px 7px 29px 0px;  */
-            /* padding: 50px; */
-
-          /* } */
+         
+          
 
           .home-page2-middle-grid{
             display: grid;
             grid-template-columns: 1fr 1fr 1fr 1fr;
-             gap:1.8rem ;
+            /* grid-template-rows: 1f 1fr 1fr 1fr; */
+             gap:2rem ;
             width: 90%;
             overflow: hidden;
             margin: auto;
@@ -648,9 +654,11 @@ color: #2f1ac4;
 
           .home-page2-middle-grid-content1{ 
             box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
-    padding: 20px;
+    padding: 19px 0px 0px 0px;
     background-color: #f6f7fb;
     border-radius: 2rem;
+    height:25rem ;
+    width: 17rem;
     /* padding-left: 6rem; */
     
           }
@@ -659,7 +667,9 @@ color: #2f1ac4;
             text-decoration: none;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             color: white;
+            align-items: center;
             /* padding-bottom: 5rem; */
+            
             
           }
           .magic-icon-image-container button{
@@ -668,27 +678,27 @@ color: #2f1ac4;
                 height: 1.8rem;
                 border-radius: 0.1rem;
                 /* align-self: center; */
-                
+                /* padding-bottom: 5rem; */
             }
 
            .middle-grid-lower-section{
            
             background-color: #FFFFFF;
-            width: 15rem;
-            height: 10rem;
-            margin-top: 4rem;
-            
-           
+            width: 17rem;
+            height: 9rem;
+            /* margin-right: 7rem; */
+            margin-top: 2.2rem;
             
            }
            .middle-grid-lower-section-2{
             background-color: #FFFFFF;
-            width: 15rem;
-            height: 10rem;
-            margin-top: 2rem;
+            width: 17rem;
+            height: 9rem;
+            margin-bottom: 0rem;
+            
         }
 
-           .middle-grid-lower-section-2 h3{
+           .middle-grid-lower-section h3{
             color: #FB2E86;
             font-family: Arial;
             text-align: center;
@@ -707,7 +717,7 @@ color: #2f1ac4;
             
            }
 
-           .middle-grid-lower-section h3{
+           .middle-grid-lower-section-2 h3{
             color: #FB2E86;
             font-family: Arial;
             /* padding-left: 2rem; */
@@ -760,14 +770,16 @@ color: #2f1ac4;
             /* padding-left: 2rem; */
             text-align: center;
             font-weight: 300;
+            padding-top: -2rem;
            }
 
            .middle-grid-lower-section p{
             color: #151875;
             font-family: Arial;
-            /* padding-left: 2rem; */
+             padding-bottom: 1rem;
             text-align: center;
             font-weight: 300;
+            /* padding-bottom: 2rem; */
           
     }
 
@@ -803,5 +815,11 @@ color: #2f1ac4;
     cursor: pointer;
     
 }
-    }
+
+.middle-grid-lower-section {box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
     
+.middle-grid-lower-section-2 {box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
+}
+
+    }
