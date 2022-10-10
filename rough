@@ -1,0 +1,18 @@
+ <!-- <div class="home-page3-chair-section"> -->
+          <!-- <img src="images/home-page3-chair1.png" alt="image of a chair" /> -->
+        <!-- </div> -->
+        <!-- <div class="confy-price-section"> -->
+          <!-- <h3>comfort handy craft</h3> -->
+
+          <!-- <h4>$42.00 $65.00</h4> -->
+        <!-- </div>  --
+            ><div class="home-page3-chair-section">
+          <img src="images/home-page3-chair3.png" alt="image of a chair" />
+        </div>
+        <div class="confy-price-section">
+          <div class="home-page3-confy-handy">
+            <h3>comfort handy craft</h3>
+          </div>
+          <h4>$42.00 $65.00</h4>
+        </div>
+      </div>
