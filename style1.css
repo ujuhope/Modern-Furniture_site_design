@@ -239,6 +239,7 @@ line-height: 1.5rem;
     width: 70%;
     overflow: hidden;
     margin: auto;
+    box-shadow: rgba(8, 8, 143, 0.2) 0px 7px 29px 0px;
 }
 
 .upper-and-lower-home-page2-middle-grid-content{
@@ -1247,7 +1248,7 @@ background: whitesmoke
         .shopex-grid-card{
             box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
         
-            height: 12rem; 
+            height: 14rem; 
         }
 
         .shopex-hearder{
@@ -1287,22 +1288,64 @@ background: whitesmoke
         }
 
        .support h5{
-        color: #151875;
-        line-height: 26px;
-        
-       }
+            color: #151875;
+            line-height: 26px;
+            text-align: center;
+            padding-top: 1rem;
+        }
 
        .shopex-text p{
-        font-family: Arial;
-        font-size: 0.7rem;
-        line-height: 1.2rem;
-        color: #8A8FB9;
-        font-style: normal;
-        font-weight: 600;
-        margin-bottom: 2rem;
+            font-family: Arial;
+            font-size: 0.7rem;
+            line-height: 1.2rem;
+            color: #8A8FB9;
+            font-style: normal;
+            font-weight: 600;
+            margin-bottom: 2rem;
+            text-align-last: center;
+            padding-top: 1rem;
     
+        }
+
+         /* Unique Features Of Latest & Trending Products section  */
+        .unique-features-card-container{
+            display: flex;
+            align-items: center;
+            height: 100vh;
+            
+            
+        }
+
+
+        .unique-features-image-background{
+            background-image: url(images/unique-pink-background.png);
+            background-repeat: no-repeat;
+            z-index: -1rem;
+            /* width: 400px; */
+            /* height: 400px; */
+            
+
+        }
+        .unique-features-image-background img{
+            width: 400px;
+            height: 400px;
+
+        }
+
+        .unique-features-image-background img{
+            width: 100%;
+            height: inherit;
+        }
+
+        .unique-features-text-section{
+            padding-left: 5rem;
+        }
+
         
-       }
+
+       
+
+
     }
     
 
