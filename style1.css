@@ -418,6 +418,207 @@ text-decoration: none;
 
 }
 
+  /* home page3 starts here */
+  .home-page3-container{
+    height: 90vh;
+}
+
+.home-page3-first-header{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 0.8rem;
+    
+    text-align: center;
+    color: #2F1AC4 ;
+    padding-bottom: 0rem;
+    padding-top: 3rem;
+}
+
+.home-page3-sub-header{
+    display: flex;
+    color:#151875 ;
+    padding-left: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.home-page3-sub-header li{
+    margin: 0.5rem;
+    line-height: 1.1rem;
+    font-weight: 600;
+    font-size: 11px;
+    padding-bottom: 1rem;
+    /* margin-top: -0.5rem; */
+}
+.home-page3-sub-header li:hover{
+    color: #FB2E86;
+    text-decoration: underline;
+}
+
+.home-page3-chair-holder{
+    display:flex;
+    justify-content:center;
+    height:70%; 
+    /* z-index: 10rem; */
+}
+
+.home-page3-chair-holder img{
+    /* height: 30%; */
+    width: 70%;
+    margin-top: -12rem;
+    margin-left: 1.8rem;
+}
+
+
+.home-page3-middle-grid{
+    display: grid;
+    grid-template-columns: 1fr ;
+    gap:2rem ;
+    width: 70%;
+    overflow: hidden;
+    margin: auto;
+    
+    
+    
+    
+}
+
+
+
+.home-page3-top-section{
+    
+background: whitesmoke
+
+}
+
+.home-page3-sales-tag{
+    background-color: #3F509E;
+    width: 3.5rem;
+    padding-top: 0.7rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    position: relative;
+    top: 5rem;
+    left: 1.5rem;
+    transform: skewY(325deg);
+    border-bottom-left-radius: 1.5rem;
+    /* transform: skew(0.1rad,0.1rad); */
+    visibility: hidden;
+
+}
+
+.home-page3-sales-tag p{
+    color: white;
+    transform: skewY(330deg);
+    text-align: initial;
+    margin-top: -0.8rem;
+    
+    
+}
+
+.home-page3-icons-and-image-section{
+    justify-content: space-between;
+    display: inline-block;
+}
+
+
+
+.home-page3-icons{
+    /* color: #2F1AC4; */
+    display: flex;
+    flex-direction: column;
+    margin-top: 9rem;
+    visibility: hidden;
+
+
+}
+
+
+.home-page3-icon-holder i{
+    margin: 0.5rem;
+    color: #2F1AC4;
+   
+}
+
+.home-page3-top-and-buttom-grid-card:hover .home-page3-top-section{
+    background-color: white;
+}
+
+.home-page3-top-and-buttom-grid-card :hover .home-page3-icons{
+    visibility: visible;
+    
+
+}
+
+.home-page3-top-and-buttom-grid-card :hover .home-page3-sales-tag{
+    visibility: visible;
+}
+
+.home-page3-icons .home-page3-icon-holder{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    width:30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid transparent;
+    text-decoration: none;
+}
+
+.home-page3-icons .home-page3-icon-holder:hover{
+    background:rgb(226, 223, 223) 
+
+}
+
+.confy-price-section{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 1.1rem;
+    margin-top: -0.3rem;
+    margin-right: 1rem;
+    
+}
+
+.home-page3-middle-grid-just-price{
+    display: flex;
+    padding-top: 0.9rem;
+    margin-left: 3.5rem;
+
+}
+
+.home-page3-middle-grid-just-price h5{
+    color: #151875;
+    padding-right: 1.5rem;
+    
+    
+}
+
+.home-page3-middle-grid-just-price h6{
+    color: #FB2448;
+    /* padding-right: 3rem; */
+    text-decoration: line-through;
+}
+
+.confy-price-section h4{
+    color: #151875;
+    font-size: 0.6rem;
+    line-height: 1.1rem;
+    font-weight: 250;
+    background-color: whitesmoke;
+    padding-left: 0.5rem;
+    padding-right: 1rem;
+    padding-top:0.2rem ;
+    padding-bottom: 0.2rem;
+    margin-top: 0.5rem;
+    margin-right: -4rem;
+}
+
+.home-page3-grid-card-buttom-section{
+    display: flex;
+}
+
+
+
  
 
 
@@ -828,175 +1029,203 @@ text-decoration: none;
 
 
         /* home page3 starts here */
+        .home-page3-container{
+            height: 90vh;
+        }
 
         .home-page3-first-header{
             font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
-            font-size: 1.2rem;
-            /* line-height: 1rem; */
+            font-size: 1rem;
+            
             text-align: center;
             color: #2F1AC4 ;
             padding-bottom: 0rem;
             padding-top: 2rem;
         }
-
+        
         .home-page3-sub-header{
             display: flex;
             color:#151875 ;
-            padding-left:22.5rem ;
+            padding-left:29rem ;
             font-family: Arial, Helvetica, sans-serif;
-            /* font-weight: 400; */
+           
         }
-
+        
         .home-page3-sub-header li{
-            margin: 1.7rem;
+            margin: 1.5rem;
             line-height: 1.1rem;
-            font-weight: 400;
-            font-size: 18px;
+            font-weight: 600;
+            font-size: 12px;
+            /* margin-top: -0.5rem; */
         }
         .home-page3-sub-header li:hover{
             color: #FB2E86;
+            text-decoration: underline;
+        }
+        
+        .home-page3-chair-holder{
+            display:flex;
+            justify-content:center;
+            height:70%; 
+            /* z-index: 10rem; */
         }
 
+        .home-page3-chair-holder img{
+            /* height: 30%; */
+            width: 70%;
+            margin-top: -12rem;
+            margin-left: 1.8rem;
+        }
+
+        
         .home-page3-middle-grid{
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
-             gap:1.5rem ;
-            width: 90%;
+            gap:2rem ;
+            width: 70%;
             overflow: hidden;
             margin: auto;
-            /* padding-left: 14rem; */
-        }
-        .home-page3-sales-tag-chair-icon{
-            /* height: 90vh; */
-        } 
-
-        .home-page3-sales-tag-chair-icon img{
-            padding-left: 6.5rem;
-            width: 100%;
-            /* background-color: #000000; */
-            /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  */
-        
-            /* margin: -1rem; */
             
+            
+            
+            
+        }
+
+       
+
+        .home-page3-top-section{
+            
+        background: whitesmoke
+
+        }
+
+        .home-page3-sales-tag{
+            background-color: #3F509E;
+            width: 3.5rem;
+            padding-top: 0.7rem;
+            padding-left: 1rem;
+            padding-bottom: 1rem;
+            position: relative;
+            top: 5rem;
+            left: 1.5rem;
+            transform: skewY(325deg);
+            border-bottom-left-radius: 1.5rem;
+            /* transform: skew(0.1rad,0.1rad); */
+            visibility: hidden;
+        
+        }
+
+        .home-page3-sales-tag p{
+            color: white;
+            transform: skewY(330deg);
+            text-align: initial;
+            margin-top: -0.8rem;
+            
+            
+        }
+
+        .home-page3-icons-and-image-section{
+            justify-content: space-between;
+            display: inline-block;
+        }
+
+       
+
+        .home-page3-icons{
+            /* color: #2F1AC4; */
+            display: flex;
+            flex-direction: column;
+            margin-top: 9rem;
+            visibility: hidden;
+        
+
+        }
+
+        
+        .home-page3-icon-holder i{
+            margin: 0.5rem;
+            color: #2F1AC4;
+           
+        }
+
+        .home-page3-top-and-buttom-grid-card:hover .home-page3-top-section{
+            background-color: white;
+        }
+
+        .home-page3-top-and-buttom-grid-card :hover .home-page3-icons{
+            visibility: visible;
+            
+
+        }
+
+        .home-page3-top-and-buttom-grid-card :hover .home-page3-sales-tag{
+            visibility: visible;
+        }
+
+        .home-page3-icons .home-page3-icon-holder{
+            display:flex;
+            justify-content:center;
+            align-items: center;
+            width:30px;
+            height: 30px;
+            border-radius: 50%;
+            border: 1px solid transparent;
+            text-decoration: none;
+        }
+
+        .home-page3-icons .home-page3-icon-holder:hover{
+            background:rgb(226, 223, 223) 
+
         }
 
         .confy-price-section{
             display: flex;
             justify-content: space-between;
-            padding: auto;
             font-family: Arial, Helvetica, sans-serif;
+            margin: 1.1rem;
+            margin-top: -0.3rem;
+            margin-right: 1rem;
             
         }
-
+        
         .home-page3-middle-grid-just-price{
             display: flex;
             padding-top: 0.9rem;
-
+            margin-left: 3.5rem;
+        
         }
-
+        
         .home-page3-middle-grid-just-price h5{
             color: #151875;
             padding-right: 1.5rem;
+            
+            
         }
-
+        
         .home-page3-middle-grid-just-price h6{
             color: #FB2448;
             /* padding-right: 3rem; */
             text-decoration: line-through;
         }
-
+        
         .confy-price-section h4{
             color: #151875;
-            font-size: 1rem;
+            font-size: 0.8rem;
             line-height: 1.1rem;
-            font-weight: 300;
+            font-weight: 250;
             background-color: whitesmoke;
-            padding-left: 1rem;
+            padding-left: 0.5rem;
             padding-right: 1rem;
             padding-top:0.2rem ;
             padding-bottom: 0.2rem;
-            margin-top: 0.6rem;
-            /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  */
-            
+            margin-top: 0.5rem;
+            margin-right: -4rem;
         }
 
-        /* home page4 starts here  */
-
-        
-
-        .home-page4-grid{
-            display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
-             gap:1.5rem ;
-            width: 90%;
-            overflow: hidden;
-            margin: auto;
-            padding-top: 5rem;
-            /* padding-left: 14rem; */
-        }
-        .home-page4-sales-tag-chair-icon{
-            /* height: 90vh; */
-        } 
-
-        .home-page4-sales-tag-chair-icon img{
-            padding-left: 6.5rem;
-            width: 100%;
-            /* background-color: #000000; */
-            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; 
-        
-            /* margin: -1rem; */
-            
-        }
-
-        .confy-price-section{
+        .home-page3-grid-card-buttom-section{
             display: flex;
-            justify-content: space-between;
-            padding: auto;
-            font-family: Arial, Helvetica, sans-serif;
-            
         }
-
-        .home-page4-grid-just-price{
-            display: flex;
-            padding-top: 0.9rem;
-
-        }
-
-        .home-page4-grid-just-price h5{
-            color: #151875;
-            padding-right: 1.5rem;
-        }
-
-        .home-page4-grid-just-price h6{
-            color: #FB2448;
-            /* padding-right: 3rem; */
-            text-decoration: line-through;
-        }
-
-        .confy-price-section h4{
-            color: #151875;
-            font-size: 1rem;
-            line-height: 1.1rem;
-            font-weight: 300;
-            background-color: whitesmoke;
-            padding-left: 1rem;
-            padding-right: 1rem;
-            padding-top:0.2rem ;
-            padding-bottom: 0.2rem;
-            margin-top: 0.6rem;
-            /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;  */
-           
-        }
-        .ash-chair-home-page4 img{
-            /* height: 260px; */
-            /* width: 300px; */
-
-        }
-        .darker-ash-chair-home-page4{
-            /* height: 300px; */
-            width: 450px;
- 
-        }
+        
     }
     
 
