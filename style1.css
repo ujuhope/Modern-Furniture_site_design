@@ -842,6 +842,7 @@ background: whitesmoke
             width: 70%;
             overflow: hidden;
             margin: auto;
+            box-shadow: rgba(8, 8, 143, 0.2) 0px 7px 29px 0px; 
         }
 
         .upper-and-lower-home-page2-middle-grid-content{
@@ -1225,7 +1226,83 @@ background: whitesmoke
         .home-page3-grid-card-buttom-section{
             display: flex;
         }
+
+        /* shopex section---------- */
+        .shopex-container{
+            height: 60vh;
+        }
+
+        .shopex-grid-card-container{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+             gap:1rem ;
+            width: 70%;
+            overflow: hidden;
+            margin: auto;
+            box-shadow: rgba(8, 8, 143, 0.2) 0px 7px 29px 0px; 
+            
+
+        }
+
+        .shopex-grid-card{
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
         
+            height: 12rem; 
+        }
+
+        .shopex-hearder{
+            /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande'; */
+            font-size: 1rem;
+            text-align: center;
+            color: #151875 ;
+            padding-bottom: 0rem;
+            padding-top: 2rem;
+            padding-bottom: 4rem;
+
+        }
+
+        .shopex-icon-holder1{
+            color: #FF7E40;
+            width: 4rem;
+            height: 2rem;
+            padding: 2rem 0rem 2rem 6rem;
+            font-size: 40px;
+        }
+
+        .shopex-icon-holder{
+            color: #F7B90F;
+            width:4rem;
+            height: 2rem;
+            padding:2rem 0rem 2rem 6rem;
+            font-size: 40px;
+
+        }
+
+        .shopex-icon-holder4{
+            color: #2F1AC4;
+            width: 4rem;
+            height: 2rem;
+            padding: 2rem 0rem 2rem 6rem;;
+            font-size: 40px;
+        }
+
+       .support h5{
+        color: #151875;
+        line-height: 26px;
+        
+       }
+
+       .shopex-text p{
+        font-family: Arial;
+        font-size: 0.7rem;
+        line-height: 1.2rem;
+        color: #8A8FB9;
+        font-style: normal;
+        font-weight: 600;
+        margin-bottom: 2rem;
+    
+        
+       }
     }
     
 
