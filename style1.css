@@ -696,6 +696,119 @@ background: whitesmoke
 
 }
 
+/* Unique Features Of Latest & Trending Products section  */
+         
+.unique-features-card-container{
+    display: flex;
+ }
+
+ .unique-features-card{
+     background: #F1F0FF;
+     display: block;
+     width: 100%;
+     height: 20%;
+
+ } 
+
+ .unique-features-image-background{
+     margin: 40px;
+     /* margin-left: 20rem; */
+     /* border: 2px solid red; */
+     margin-right: 5rem;
+     width: 350px;
+     height: 350px;
+     background-image: url(images/unique-pink-background.png);
+     background-size: contain;
+     z-index: -1rem;
+     align-items: center;
+     justify-content:center;
+     align-items: center;
+    
+ }
+
+ .unique-features-image-background img{
+     width: 300px;
+     height: 300px;
+     /* margin-left: 3rem; */
+    
+
+ }
+
+ .unique-features-image-background img{
+     width: 100%;
+     height: inherit;
+ }
+
+ .unique-features-image-background{
+     /* padding-left: 5rem; */
+     margin-right: 2rem;
+ }
+
+ .unique-features-text-section{
+     /* padding-left: 4rem; */
+ }
+
+ .unique-features-text-section h2{
+     color: #151875;
+     line-height: 2rem;
+     padding-top: 1rem;
+     padding-left: 0.7rem;
+
+ }
+
+ .unique-features-text-section p{
+     font-family: Arial;
+     font-size: 10px;
+     line-height: 1.7rem;
+     color: #8A8FB9;
+     font-style: normal;
+     font-weight: 400;
+     margin-bottom: 2rem;
+     padding-left: 0.7rem;
+
+ }
+
+ .add-to-cart-desc-and-price{
+     display: flex;
+ }
+
+ .add-to-cart-desc-and-price p{
+     color: #151875;
+     margin: 0.5rem;
+     line-height: 0.9rem;
+     font-weight: 600;
+     margin-top: -0.6rem;
+
+ }
+
+ .add-to-cart-desc-and-price button{
+     background-color: #FB2E86;
+     width: 6.8rem;
+     height: 2.4rem;
+     color: white;
+     margin-top: -0.9rem;
+     margin-left: 0.7rem;
+}
+
+
+.unique-features-text-section .pink{
+    font-size: 2rem;
+    color:#FB2E86 ;
+
+}
+
+.unique-features-text-section .blue{
+    font-size: 2rem;
+    color: #00009D ;
+
+}
+
+.unique-features-text-section .green{
+    font-size: 2rem;
+    color: #05E6B7 ;
+
+}
+
 
 
  
