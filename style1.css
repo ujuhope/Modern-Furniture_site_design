@@ -1384,7 +1384,7 @@ background: whitesmoke
         .home-page3-middle-grid-just-price{
             display: flex;
             padding-top: 0.9rem;
-            margin-left: 3.5rem;
+            margin-left: 3.5rem;        
         
         }
         
@@ -1607,6 +1607,139 @@ background: whitesmoke
 
         }
 
+        /* Trending product----------- */
+        .trending-product-header{
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+            font-size: 1.2rem;
+            /* line-height: 1rem; */
+            text-align: center;
+            color: #151875;
+            padding-bottom: 2rem;
+            padding-top: 5rem;
+        }
+       
+        
+
+        .trending-product-middle-grid{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+             gap:1rem ;
+            width: 70%;
+            overflow: hidden;
+            margin: auto;
+            /* box-shadow: rgba(8, 8, 143, 0.2) 0px 7px 29px 0px;  */
+        }
+
+        .TP-top-and-buttom-middle-cards{
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+            height: 16rem;  
+            
+        }
+
+        .TP-top-cards img{
+            background: red;
+            /* background-size:90%;  */
+            /* width: 50%; */
+            /* height: 50%; */
+            
+        }
+            
+
+        
+
+        .TP-top-cards{ 
+            
+            /* border-radius: 0.4rem; */
+            width:100%;
+            height:70%;
+            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ;
+            display:flex;
+            justify-content: space-between;
+            flex-direction:column;
+            /* background: #F5F6F8; */
+            padding:10px 0;
+            
+                
+        }
+
+        .chair-image-sec {
+            display:flex;
+            justify-content:center;
+            height:70%;
+           
+            
+        }
+        
+
+        .TP-top-card-extension{
+           
+            display:flex;
+            justify-content:center;
+            align-items: center;
+            flex-direction: column;
+            padding:10px 0;
+            gap: 0.5rem;
+            height:30%;
+
+        }
+
+        .TP-top-card-extension h3{
+            color: #FB2E86;
+            font-family: Arial;
+            font-size: 1rem;
+        }
+
+        .TP-top-card-extension h4{
+            font-family: 'Josefin Sans';
+            font-size: 14px;
+            line-height: 16px;
+            color: #151875;
+        }
+
+        .TP-top-card-extension p{
+            font-family: 'Lato';
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 17px;
+            color: #151875
+        }
+        
+        .TP-price-and-desc{
+            display: flex;
+            padding-top: 0.9rem;
+            margin-left: 3.5rem;        
+        
+        }
+        
+        .TP-price-and-desc h5{
+            color: #151875;
+            padding-right: 1.5rem;
+            
+            
+        }
+        
+        .TP-price-and-desc h6{
+            color: #FB2448;
+            /* padding-right: 3rem; */
+            text-decoration: line-through;
+        }
+
+        .trending-product-middle-buttom-card{
+            display: grid;
+            grid-template-columns: 2fr 2fr 1.5fr;
+             gap:1rem ;
+            width: 70%;
+            overflow: hidden;
+            margin: auto;
+            border: 2px solid red;
+
+        }
+
+        .TP-buttom-card{
+        /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+        height: 15rem; 
+        background: #FFF6FB; 
+        }
 
     }
     
