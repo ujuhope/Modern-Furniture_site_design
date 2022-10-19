@@ -810,6 +810,160 @@ background: whitesmoke
 
 }
 
+ /* Trending product----------- */
+ .trending-product-header{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-size: 1.2rem;
+    /* line-height: 1rem; */
+    text-align: center;
+    color: #151875;
+    padding-bottom: 2rem;
+    padding-top: 5rem;
+}
+
+
+
+.trending-product-middle-grid{
+    display: block;
+    grid-template-columns: 1fr;
+     gap:1rem ;
+    width: 65%;
+    height: 100%;
+    overflow: hidden;
+    margin: auto;
+   
+    box-shadow: rgba(6, 6, 130, 0.2) 0px 7px 12px 0px; 
+}
+
+.TP-top-cards img{
+    background: #F5F6F8;
+}
+
+.TP-top-cards{ 
+    
+    /* border-radius: 0.4rem; */
+    width:100%;
+    height:81%;
+    background: white;
+    box-shadow:  rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ;
+    display:flex;
+    justify-content: space-between;
+    flex-direction:column;
+    /* background: #F5F6F8; */
+    padding:10px 0;
+    /* drop-shadow:(0px 8px 40px rgba(49, 32, 138, 0.05)); */
+    
+        
+}
+
+.chair-image-sec {
+    display:flex;
+    justify-content:center;
+    height:80%;
+   
+}
+
+.TP-top-cards h3{
+    color: #FB2E86;
+    font-family: Arial;
+    font-size: 1rem;
+}
+
+.TP-top-cards h4{
+    font-family: 'Josefin Sans';
+    font-size: 14px;
+    line-height: 16px;
+    color: #151875;
+}
+
+
+
+.TP-price-and-desc{
+    display: flex;
+    padding-top: 0.9rem;
+    margin-left: 3.5rem;        
+   
+
+}
+
+
+.TP-top-cards h4{
+    color: #151875;
+    text-align: center;
+}
+
+
+.TP-top-cards h5{
+    color: #151875;
+   text-align: center;
+   
+}
+
+.TP-top-cards h6{
+    color:  rgba(21, 24, 117, 0.3);
+   text-decoration: line-through;
+    margin-left: 1rem;
+}
+
+.trending-product-middle-buttom-card{
+    display: grid;
+    grid-template-columns: 1;
+     gap:1rem ;
+    width: 65%;
+    /* height: 100vh; */
+    overflow: hidden;
+    margin: auto;
+    /* border: 2px solid red; */
+    
+
+}
+.trending-products-discount{
+    background: #FFF6FB;  
+} 
+
+.trending-products-discount2{
+    background-color: #EEEFFB;
+}
+
+.TP-buttom-card{
+height: 18rem; 
+
+}
+
+.TP-buttom-card a{
+    color: #FB2E86;
+    text-decoration: underline;
+    padding: 0.5rem;
+}
+
+.TP-buttom-card h3{
+    color: #151875;
+    padding: 0.5rem;
+
+}
+
+.TP-buttom-card img{
+    width: 312px;
+    height: 173px;
+}
+
+.TP-buttom-card img{
+    /* width: 100%; */
+    /* height: inherit; */
+}
+
+
+.TP-card1{
+    display: flex;
+}
+
+.TP-card1 h6{
+    font-family: 'Lato';
+    text-decoration: line-through;
+    color: #151875
+}
+
+
 
 
  
