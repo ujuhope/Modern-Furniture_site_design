@@ -230,6 +230,7 @@ line-height: 1.5rem;
     display:flex;
     justify-content:center;
     height:70%;
+
 }
 
 .home-page2-middle-grid{
@@ -1624,40 +1625,31 @@ background: whitesmoke
             display: grid;
             grid-template-columns: 1fr 1fr 1fr 1fr;
              gap:1rem ;
-            width: 70%;
+            width: 65%;
+            height: 39vh;
             overflow: hidden;
             margin: auto;
-            /* box-shadow: rgba(8, 8, 143, 0.2) 0px 7px 29px 0px;  */
+           
+            box-shadow: rgba(6, 6, 130, 0.2) 0px 7px 12px 0px; 
         }
-
-        .TP-top-and-buttom-middle-cards{
-            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-            height: 16rem;  
-            
-        }
-
-        .TP-top-cards img{
-            background: red;
-            /* background-size:90%;  */
-            /* width: 50%; */
-            /* height: 50%; */
-            
-        }
-            
-
         
+        .TP-top-cards img{
+            background: #F5F6F8;
+        }
 
         .TP-top-cards{ 
             
             /* border-radius: 0.4rem; */
             width:100%;
-            height:70%;
-            box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ;
+            height:81%;
+            background: white;
+            box-shadow:  rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; ;
             display:flex;
             justify-content: space-between;
             flex-direction:column;
             /* background: #F5F6F8; */
             padding:10px 0;
+            /* drop-shadow:(0px 8px 40px rgba(49, 32, 138, 0.05)); */
             
                 
         }
@@ -1665,82 +1657,111 @@ background: whitesmoke
         .chair-image-sec {
             display:flex;
             justify-content:center;
-            height:70%;
+            height:80%;
            
-            
-        }
-        
-
-        .TP-top-card-extension{
-           
-            display:flex;
-            justify-content:center;
-            align-items: center;
-            flex-direction: column;
-            padding:10px 0;
-            gap: 0.5rem;
-            height:30%;
-
         }
 
-        .TP-top-card-extension h3{
+        .TP-top-cards h3{
             color: #FB2E86;
             font-family: Arial;
             font-size: 1rem;
         }
 
-        .TP-top-card-extension h4{
+        .TP-top-cards h4{
             font-family: 'Josefin Sans';
             font-size: 14px;
             line-height: 16px;
             color: #151875;
         }
 
-        .TP-top-card-extension p{
-            font-family: 'Lato';
-            font-weight: 400;
-            font-size: 14px;
-            line-height: 17px;
-            color: #151875
-        }
+        
         
         .TP-price-and-desc{
             display: flex;
             padding-top: 0.9rem;
             margin-left: 3.5rem;        
+           
         
         }
+
         
-        .TP-price-and-desc h5{
+        .TP-top-cards h4{
             color: #151875;
-            padding-right: 1.5rem;
-            
-            
+            text-align: center;
+        }
+
+        
+        .TP-top-cards h5{
+            color: #151875;
+           text-align: center;
+           
         }
         
-        .TP-price-and-desc h6{
-            color: #FB2448;
-            /* padding-right: 3rem; */
-            text-decoration: line-through;
+        .TP-top-cards h6{
+            color:  rgba(21, 24, 117, 0.3);
+           text-decoration: line-through;
+            margin-left: 1rem;
         }
 
         .trending-product-middle-buttom-card{
             display: grid;
             grid-template-columns: 2fr 2fr 1.5fr;
              gap:1rem ;
-            width: 70%;
+            width: 65%;
+            /* height: 100vh; */
             overflow: hidden;
             margin: auto;
-            border: 2px solid red;
+            /* border: 2px solid red; */
+            
 
+        }
+        .trending-products-discount{
+            background: #FFF6FB;  
+        } 
+
+        .trending-products-discount2{
+            background-color: #EEEFFB;
         }
 
         .TP-buttom-card{
-        /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
-        height: 15rem; 
-        background: #FFF6FB; 
+        height: 18rem; 
+       
         }
 
+        .TP-buttom-card a{
+            color: #FB2E86;
+            text-decoration: underline;
+            padding: 0.5rem;
+        }
+
+        .TP-buttom-card h3{
+            color: #151875;
+            padding: 0.5rem;
+
+        }
+
+        .TP-buttom-card img{
+            width: 312px;
+            height: 173px;
+        }
+
+        .TP-buttom-card img{
+            /* width: 100%; */
+            /* height: inherit; */
+        }
+
+
+        .TP-card1{
+            display: flex;
+        }
+
+        .TP-card1 h6{
+            font-family: 'Lato';
+            text-decoration: line-through;
+            color: #151875
+        }
+
+        
     }
     
 
