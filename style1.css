@@ -16,7 +16,7 @@ list-style: none;
 }
 .Top-nav{
     font-family:Josefin Sans;
-    font-size: 0.5rem;
+    font-size: 0.45rem;
     color: #F1F1F1;
     
 display: flex;
@@ -58,10 +58,8 @@ display: flex;
         margin: 0;
        
         display: flex;
-        font-size: medium;
+        font-size: 15px;
         
-        
-    
     }
     
     
@@ -215,7 +213,7 @@ line-height: 1.5rem;
 
 .home-page2-hearder{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
-    font-size: 1rem;
+    font-size: 0.9rem;
     /* line-height: 1rem; */
     text-align: center;
     color: #0D0E43 ;
@@ -441,10 +439,11 @@ text-decoration: none;
 
 .home-page3-sub-header li{
     margin: 0.5rem;
-    line-height: 1.1rem;
+    line-height: 1rem;
     font-weight: 600;
-    font-size: 11px;
-    padding-bottom: 1rem;
+    font-size: 10px;
+    padding-bottom: 0.8rem;
+    cursor: pointer;
     /* margin-top: -0.5rem; */
 }
 .home-page3-sub-header li:hover{
@@ -456,6 +455,7 @@ text-decoration: none;
     display:flex;
     justify-content:center;
     height:70%; 
+    /* justify-content: center; */
 }
 
 .home-page3-chair-holder img{
@@ -463,6 +463,7 @@ text-decoration: none;
     width: 100%;
     margin-top: -12rem;
     margin-left: 1.5rem;
+    /* justify-content: center; */
     
 }
 
@@ -474,18 +475,11 @@ text-decoration: none;
     /* width: 70%; */
     overflow: hidden;
     margin: auto;
-    
-    
-    
-    
 }
-
-
 
 .home-page3-top-section{
     
-background: whitesmoke
-
+background: whitesmoke;
 }
 
 .home-page3-sales-tag{
@@ -704,55 +698,52 @@ background: whitesmoke
      display: block;
      width: 100%;
      height: 20%;
+     /* justify-content: center; */
 
- } 
+    } 
 
- .unique-features-image-background{
-     /* margin: 40px; */
-     /* margin-left: 20rem; */
-     /* border: 2px solid red; */
-     margin-right: 5rem;
-     width: 320px;
-     height: 350px;
-     background-image: url(images/unique-pink-background.png);
-     background-size: contain;
-     z-index: -1rem;
-     justify-content:center;
-     background-repeat: no-repeat;
+    .unique-features-image-background{
+      /* border: 2px solid red; */
+      margin-right: 5rem;
+      width: 320px;
+      height: 350px;
+      background-image: url(images/unique-pink-background.png);
+      background-size: contain;
+      z-index: -1rem;
+      justify-content:center;
+      background-repeat: no-repeat;
     
- }
+    }
 
- .unique-features-image-background img{
-     width: 300px;
+    .unique-features-image-background img{
+     width:100%;
      height: 300px;
-     /* margin-left: 3rem; */
-    
+     
+    }
 
- }
-
- .unique-features-image-background img{
+    .unique-features-image-background img{
      width: 100%;
      height: inherit;
- }
+    }
 
- .unique-features-image-background{
-     /* padding-left: 5rem; */
-     margin-right: 2rem;
- }
+   .unique-features-image-background{
+      /* padding-left: 5rem; */
+      margin-right: 2rem;
+    }
 
- .unique-features-text-section{
-     /* padding-left: 4rem; */
- }
+    .unique-features-text-section{
+      /* padding-left: 4rem; */
+    }
 
- .unique-features-text-section h2{
-     color: #151875;
-     line-height: 2rem;
-     padding-top: 1rem;
-     padding-left: 0.7rem;
+    .unique-features-text-section h2{
+      color: #151875;
+      line-height: 2rem;
+      padding-top: 1rem;
+      padding-left: 0.7rem;
 
- }
+    }
 
- .unique-features-text-section p{
+    .unique-features-text-section p{
      font-family: Arial;
      font-size: 10px;
      line-height: 1.7rem;
@@ -762,79 +753,76 @@ background: whitesmoke
      margin-bottom: 2rem;
      padding-left: 0.7rem;
 
- }
+    }
 
- .add-to-cart-desc-and-price{
+    .add-to-cart-desc-and-price{
      display: flex;
- }
+    }
 
- .add-to-cart-desc-and-price p{
+    .add-to-cart-desc-and-price p{
      color: #151875;
      margin: 0.5rem;
      line-height: 0.9rem;
      font-weight: 600;
      margin-top: -0.6rem;
 
- }
+    }
 
- .add-to-cart-desc-and-price button{
+    .add-to-cart-desc-and-price button{
      background-color: #FB2E86;
      width: 6.8rem;
      height: 2.4rem;
      color: white;
      margin-top: -0.9rem;
      margin-left: 0.7rem;
-}
+    }
 
 
-.unique-features-text-section .pink{
-    font-size: 2rem;
-    color:#FB2E86 ;
+    .unique-features-text-section .pink{
+     font-size: 2rem;
+     color:#FB2E86 ;
 
-}
+    }
 
-.unique-features-text-section .blue{
-    font-size: 2rem;
-    color: #00009D ;
+    .unique-features-text-section .blue{
+      font-size: 2rem;
+      color: #00009D ;
 
-}
+    }
 
-.unique-features-text-section .green{
-    font-size: 2rem;
-    color: #05E6B7 ;
+    .unique-features-text-section .green{
+      font-size: 2rem;
+      color: #05E6B7 ;
+    }
 
-}
-
- /* Trending product----------- */
- .trending-product-header{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
-    font-size: 1.2rem;
-    /* line-height: 1rem; */
-    text-align: center;
-    color: #151875;
-    padding-bottom: 2rem;
-    padding-top: 5rem;
-}
+        /* Trending product----------- */
+    .trending-product-header{
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+      font-size: 0.9rem;
+      text-align: center;
+      color: #151875;
+      padding-bottom: 2rem;
+      padding-top: 5rem;
+    }
 
 
 
-.trending-product-middle-grid{
-    display: block;
-    grid-template-columns: 1fr;
-     gap:1rem ;
-    width: 65%;
-    height: 100%;
-    overflow: hidden;
-    margin: auto;
-   
-    box-shadow: rgba(6, 6, 130, 0.2) 0px 7px 12px 0px; 
-}
+    .trending-product-middle-grid{
+      display: block;
+      grid-template-columns: 1fr;
+      gap:1rem ;
+      width: 65%;
+      height: 100%;
+      overflow: hidden;
+     margin: auto;
+     box-shadow: rgba(6, 6, 130, 0.2) 0px 7px 12px 0px; 
+    }
 
-.TP-top-cards img{
-    background: #F5F6F8;
-}
+    .TP-top-cards img{
+     background: #F5F6F8;
+    }
 
-.TP-top-cards{ 
+    .TP-top-cards{ 
     
     /* border-radius: 0.4rem; */
     width:100%;
@@ -847,9 +835,7 @@ background: whitesmoke
     /* background: #F5F6F8; */
     padding:10px 0;
     /* drop-shadow:(0px 8px 40px rgba(49, 32, 138, 0.05)); */
-    
-        
-}
+    }
 
 .chair-image-sec {
     display:flex;
@@ -903,11 +889,10 @@ background: whitesmoke
 .trending-product-middle-buttom-card{
     display: grid;
     grid-template-columns: 1;
-     gap:1rem ;
-    width: 65%;
-    /* height: 100vh; */
+    gap:0rem ;
     overflow: hidden;
     margin: auto;
+    margin-top: 0.1rem;
     /* border: 2px solid red; */
     
 
@@ -918,6 +903,11 @@ background: whitesmoke
 
 .trending-products-discount2{
     background-color: #EEEFFB;
+}
+
+.trending-products-discount img{
+    height: inherit;
+    width: 100%;
 }
 
 .TP-buttom-card{
