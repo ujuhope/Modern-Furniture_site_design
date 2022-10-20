@@ -14,3 +14,16 @@
 ## mobile view
 
 ![mobile-view1](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view1.JPG)
+![mobile-view2](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view2.JPG)
+![mobile-view3](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view3.JPG)
+![mobile-view4](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view4.JPG)
+![mobile-view5](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view5.JPG)
+![mobile-view6](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view6.JPG)
+
+![mobile-view7](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view7.JPG)
+
+
+![mobile-view8](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view8.JPG)
+
+
+
