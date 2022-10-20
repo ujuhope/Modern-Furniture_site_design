@@ -10,3 +10,5 @@
 ![hekto-home-page3a2](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/hekto-home-page3a2%20(2).JPG)
 ![what-shopex-offer](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/what-shopex-offer.JPG)
 ![unique-p-screenshot](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/unique-p-screenshot.JPG)
+
+##mobile view
