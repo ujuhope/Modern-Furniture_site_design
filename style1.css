@@ -133,12 +133,10 @@ line-height: 1.5rem;
 /* } */
 
 .home-page1-box{
-    /* display: grid; */
-   
-    /* height: 100vh; */
-    padding-right: 4rem;
+   padding-right: 4rem;
    background-color: #f2f0ff;
    background-size: cover;
+   height: 120%;
     }
     
    .box-content-home-page1{
@@ -198,13 +196,13 @@ line-height: 1.5rem;
 
   .pink-sofa-col img{
     padding: 3rem 3rem 0 5rem;
-    width: 100%;
-    height: 20rem;
-    padding-right: 2rem;
-    /* z-index: -100rem; */
-
+    width: 320px;
+    height: inherit;
+    padding-right: 1rem;
+   
    } 
-
+  
+   
 
   .action-button a{
     text-decoration: none;
@@ -460,7 +458,6 @@ text-decoration: none;
     display:flex;
     justify-content:center;
     height:70%; 
-    /* z-index: 10rem; */
 }
 
 .home-page3-chair-holder img{
@@ -468,6 +465,7 @@ text-decoration: none;
     width: 100%;
     margin-top: -12rem;
     margin-left: 1.5rem;
+    
 }
 
 
