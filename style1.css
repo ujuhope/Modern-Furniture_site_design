@@ -465,17 +465,17 @@ text-decoration: none;
 
 .home-page3-chair-holder img{
     /* height: 30%; */
-    width: 70%;
+    width: 100%;
     margin-top: -12rem;
-    margin-left: 1.8rem;
+    margin-left: 1.5rem;
 }
 
 
 .home-page3-middle-grid{
     display: grid;
     grid-template-columns: 1fr ;
-    gap:2rem ;
-    width: 70%;
+    gap:1rem ;
+    /* width: 70%; */
     overflow: hidden;
     margin: auto;
     
@@ -712,18 +712,17 @@ background: whitesmoke
  } 
 
  .unique-features-image-background{
-     margin: 40px;
+     /* margin: 40px; */
      /* margin-left: 20rem; */
      /* border: 2px solid red; */
      margin-right: 5rem;
-     width: 350px;
+     width: 320px;
      height: 350px;
      background-image: url(images/unique-pink-background.png);
      background-size: contain;
      z-index: -1rem;
-     align-items: center;
      justify-content:center;
-     align-items: center;
+     background-repeat: no-repeat;
     
  }
 
