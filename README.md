@@ -13,7 +13,9 @@
 
 ## mobile view
 
-![mobile-view1](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view1.JPG)
+<p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view1.JPG" alt="image of a chair"/>
+  </p>
 ![mobile-view2](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view2.JPG)
 ![mobile-view3](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view3.JPG)
 ![mobile-view4](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view4.JPG)
