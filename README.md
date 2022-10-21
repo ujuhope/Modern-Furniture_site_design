@@ -16,16 +16,46 @@
 <p align="center"> 
   <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view1.JPG" alt="image of a chair"/>
   </p>
-![mobile-view2](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view2.JPG)
-![mobile-view3](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view3.JPG)
-![mobile-view4](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view4.JPG)
-![mobile-view5](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view5.JPG)
-![mobile-view6](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view6.JPG)
+<p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view2.JPG" alt="image of a chair"/>
+  </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view3.JPG" alt="image of a chair"/>
+  </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view4.JPG" alt="image of a chair"/>
+  </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view5.JPG" alt="image of a chair"/>
+  </p>
+  
+<p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view6.JPG" alt="image of a chair"/>
+  </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view7.JPG" alt="image of a chair"/>
+  </p><p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view8.JPG" alt="image of a chair"/>
+  </p>
 
-![mobile-view7](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view7.JPG)
 
 
-![mobile-view8](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view8.JPG)
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
