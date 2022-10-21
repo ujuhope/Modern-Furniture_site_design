@@ -37,6 +37,66 @@
   </p><p align="center"> 
   <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view8.JPG" alt="image of a chair"/>
   </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view9.JPG" alt="image of a chair"/>
+  </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view10.JPG" alt="image of a chair"/>
+  </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view11.JPG" alt="image of a chair"/>
+  </p>
+  
+<p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view12.JPG" alt="image of a chair"/>
+  </p>
+  
+<p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view13.JPG" alt="image of a chair"/>
+  </p>
+  
+<p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view14.JPG" alt="image of a chair"/>
+  </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view15.JPG" alt="image of a chair"/>
+  </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view16.JPG" alt="image of a chair"/>
+  </p>
+  
+<p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view17.JPG" alt="image of a chair"/>
+  </p>
+  <p align="center"> 
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view18.JPG" alt="image of a chair"/>
+  </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
