@@ -231,7 +231,7 @@ line-height: 1.5rem;
     display: grid;
     grid-template-columns: 1fr;
      gap:1rem ;
-    width: 70%;
+    /* width: 70%; */
     overflow: hidden;
     margin: auto;
     box-shadow: rgba(8, 8, 143, 0.2) 0px 7px 29px 0px;
@@ -616,7 +616,7 @@ background: whitesmoke;
 .shopex-grid-card-container{
     display: grid;
     grid-template-columns: 1fr;
-     gap:1rem ;
+    gap:1rem ;
     width: 70%;
     overflow: hidden;
     margin: auto;
@@ -862,7 +862,8 @@ background: whitesmoke;
 .TP-price-and-desc{
     display: flex;
     padding-top: 0.9rem;
-    margin-left: 3.5rem;        
+    margin-left: 3.5rem; 
+    /* justify-content: space-between;        */
    
 
 }
