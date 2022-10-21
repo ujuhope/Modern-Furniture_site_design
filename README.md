@@ -69,7 +69,7 @@
   <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view17.JPG" alt="image of a chair"/>
   </p>
   <p align="center"> 
-  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view18.JPG" alt="image of a chair"/>
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/moble-view18.JPG" alt="image of a chair"/>
   </p>
 
 
