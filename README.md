@@ -11,7 +11,7 @@
 ![what-shopex-offer](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/what-shopex-offer.JPG)
 ![unique-p-screenshot](https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/unique-p-screenshot.JPG)
 
-## mobile view
+<p align="center"> ## mobile view </p>
 
 <p align="center"> 
   <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view1.JPG" alt="image of a chair"/>
