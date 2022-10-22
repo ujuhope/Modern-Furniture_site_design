@@ -16,7 +16,7 @@ list-style: none;
 }
 .Top-nav{
     font-family:Josefin Sans;
-    font-size: 0.45rem;
+    font-size: 0.52rem;
     color: #F1F1F1;
     
 display: flex;
@@ -145,14 +145,14 @@ display: flex;
     }
 
    .text-page1{
-      padding-top: 1rem;
-      padding-left: 4rem;
-      text-align: center;
+      padding-top: 0.3rem;
+      padding-left: 1rem;
+     
       
     }
 
     .action-button{
-        margin-top:-0.4rem ;
+        margin-top:-0.1rem ;
         
     }   
 
@@ -161,14 +161,14 @@ display: flex;
       font-family: system-ui,'Segoe UI','Open Sans', 'Helvetica Neue', sans-serif;
       font-style: normal;
       font-weight: 700;
-      font-size: 15.1px;
-      line-height: 1.5rem;
+      font-size: 15px;
+      line-height: 1.8rem;
     /* text-align: justify; */
     }
 
     .text-page1 h1{
        font-family: sans-serif;
-       font-size: 1.1rem;
+       font-size: 1.4rem;
        color: #000000;
        line-height: 1.8rem;
        letter-spacing: 0.015em;
@@ -179,7 +179,7 @@ display: flex;
 
   .text-page1 p{
       font-family: Arial;
-      font-size: 0.5rem;
+      font-size: 0.6rem;
       line-height: 1.4rem;
       color: #8A8FB9;
       font-style: normal;
@@ -190,7 +190,7 @@ display: flex;
   
     .text-page1 button{
         background-color: #FB2E86;
-        width: 5.7rem;
+        width: 7rem;
         height: 2rem;
         border-radius: 0.13rem;
     
@@ -223,7 +223,7 @@ display: flex;
     text-align: center;
     color: #0D0E43 ;
     padding-bottom: 2rem;
-    padding-top: 5rem;
+    padding-top: 1rem;
 }
 .chair-image {
     display:flex;
