@@ -16,7 +16,7 @@
 ## <p align="center">mobile view </p>
 
 <p align="center"> 
-  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view1.JPG" alt="image of a chair"/>
+  <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-1.JPG" alt="image of a chair"/>
   </p>
 <p align="center"> 
   <img src="https://github.com/ujuhope/Modern-Furniture_site_design/blob/main/images/mobile-view2.JPG" alt="image of a chair"/>
