@@ -1946,6 +1946,116 @@ height: 18rem;
             margin-left:0.5rem ;
         }
 
+        /* Discount Item section  */
+         
+        .discount-item-container{
+            display: flex;
+         }
+ 
+         .DI-card{
+             background: #F1F0FF;
+             display: flex;
+             width: 100%;
+             height: 20%;
+ 
+         } 
+ 
+         .DI-image-background{
+             margin: 40px;
+             margin-left: 20rem;
+             /* border: 2px solid red; */
+             width: 350px;
+             height: 350px;
+             background-image: url(images/discount-item-background.png);
+             background-size: contain;
+             z-index: -1rem;
+             align-items: center;
+             justify-content:center;
+             align-items: center;
+            
+         }
+ 
+         .DI-image-background img{
+             width: 300px;
+             height: 300px;
+             margin-left: 3rem;
+            
+ 
+         }
+ 
+         .DI-image-background img{
+             width: 100%;
+             height: inherit;
+         }
+ 
+         .DI-image-background{
+             /* padding-left: 5rem; */
+             margin-right: 2rem;
+         }
+ 
+         .DI-text-section{
+             /* padding-left: 4rem; */
+         }
+ 
+         .DI-text-section h2{
+             color: #151875;
+             line-height: 2rem;
+             padding-top: 5.6rem;
+ 
+         }
+ 
+         .DI-text-section p{
+             font-family: Arial;
+             font-size: 12px;
+             line-height: 1.7rem;
+             color: #8A8FB9;
+             font-style: normal;
+             font-weight: 400;
+             margin-bottom: 2rem;
+ 
+         }
+ 
+         .add-to-cart-desc-and-price{
+             display: flex;
+         }
+ 
+         .add-to-cart-desc-and-price p{
+             color: #151875;
+             margin: 0.5rem;
+             line-height: 0.9rem;
+             font-weight: 600;
+             margin-top: -0.6rem;
+ 
+         }
+ 
+         .add-to-cart-desc-and-price button{
+             background-color: #FB2E86;
+             width: 6.8rem;
+             height: 2.4rem;
+             color: white;
+             margin-top: -0.9rem;
+        }
+ 
+       
+        .DI-text-section .pink{
+            font-size: 2rem;
+            color:#FB2E86 ;
+
+        }
+
+        .DI-text-section .blue{
+            font-size: 2rem;
+            color: #00009D ;
+
+        }
+
+        .DI-text-section .green{
+            font-size: 2rem;
+            color: #05E6B7 ;
+
+        }
+
+
         
     }
     
